@@ -1,19 +1,10 @@
-#: 下载/加载small-coco的数据集
 datasets
-# pandas: 数据处理 ，整理图片信息、caption信息，检索结果
 pandas
-# pillow: 图像处理，读取和处理图片
 pillow
-# numpy: 数值计算，CLIP生成embedding本质就是一串数字，向量计算
 numpy
-# torch: 深度学习框架 ，运行CLIP模型          
 torch
-# transformers: 预训练模型库，提供CLIP模型，text和image的encoders
 transformers
-# scikit-learn: 机器学习库，提供向量检索和相似度计算.
 scikit-learn
-# streamlit: Web应用框架，用于展示检索结果
 streamlit
-# matplotlib: 数据可视化库，用于展示图片和结果.
 matplotlib
 
