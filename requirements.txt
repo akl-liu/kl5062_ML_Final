@@ -1,0 +1,11 @@
+datasets
+pandas
+pillow
+numpy
+torch
+transformers
+scikit-learn
+streamlit
+matplotlib
+graphviz
+

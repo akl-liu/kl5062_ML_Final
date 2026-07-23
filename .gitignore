@@ -1,2 +1,18 @@
 *.jpg
 *.csv
+
+# Local / duplicate data footguns
+scripts/data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
